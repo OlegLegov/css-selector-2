@@ -1,1 +1,90 @@
-
+/* Урок 4 */
+/* Завдання 1 */
+.btn:hover {
+  color: red;
+  background: yellow;
+}
+/* Завдання 2 */
+.title:hover {
+  color: green;
+}
+/* Завдання 3 */
+a:visited {
+  color: yellow;
+}
+/* Завдання 4 */
+#sidebar > a:link {
+  color: red;
+}
+/* Завдання 5 */
+.btn:active {
+  background: blue;
+}
+/* Завдання 6 */
+.btn:focus {
+  color: orange;
+  background: orange;
+}
+/* Завдання 7 */
+#target:target {
+  color: white;
+  background: green;
+}
+/* Завдання 8 */
+input:checked ~ #target {
+  color: white;
+  background: blue;
+}
+/* Завдання 9 */
+p:lang(uk) {
+  color: blue;
+}
+/* Завдання 10 */
+input:enabled {
+  color: red;
+  background: yellow;
+}
+/* Завдання 11 */
+input:disabled {
+  background: yellow;
+}
+/* Завдання 12 */
+input:read-write {
+  background: yellow;
+}
+/* Завдання 13 */
+input:read-only {
+  background: yellow;
+}
+/* Завдання 14 */
+input:valid {
+  background: green;
+}
+input:invalid {
+  background: red;
+}
+/* Завдання 15 */
+#message {
+  background: red;
+}
+/* Завдання 16 */
+.bg-secondary:out-of-range {
+  color: red;
+}
+/* Завдання 17 */
+.bg-secondary:in-range {
+  color: red;
+}
+/* Завдання 18 */
+input:placeholder-shown {
+  background: red;
+}
+/* Завдання 19 */
+button:focus-within {
+  color: white;
+  background: yellow;
+}
+/* Завдання 20 */
+input:invalid {
+  background: red;
+}
